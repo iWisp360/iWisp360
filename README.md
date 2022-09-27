@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iWisp360
-- 👀 I’m interested in Web Front-End and Maqueting
+- 👀 I’m interested in Web Front-End
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on all Work Offer
 - 📫 How to reach me? Easy, this is my Telephone number: +53 5 6206927
